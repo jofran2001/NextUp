@@ -1,0 +1,184 @@
+# NextDo - Task Management System
+# Global .gitignore for the entire project
+
+# ========================
+# ENVIRONMENT & SECURITY
+# ========================
+# Environment variables (CRITICAL - Never commit these!)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*
+*.env
+*.env.*
+
+# Secrets and keys
+*.key
+*.pem
+*.p8
+*.p12
+*.mobileprovision
+*.jks
+secrets.json
+config/secrets.js
+
+# ========================
+# DEPENDENCIES
+# ========================
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Package manager files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# ========================
+# BUILD & DIST
+# ========================
+# Build outputs
+build/
+dist/
+out/
+.next/
+.nuxt/
+.vuepress/dist
+.cache/
+
+# Expo builds
+.expo/
+web-build/
+expo-env.d.ts
+
+# React Native
+.kotlin/
+*.orig.*
+
+# TypeScript
+*.tsbuildinfo
+
+# Generated native folders
+/ios
+/android
+
+# ========================
+# DEVELOPMENT & DEBUG
+# ========================
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# ========================
+# DATABASE & STORAGE
+# ========================
+# MongoDB
+*.mongo
+dump/
+data/
+
+# SQLite
+*.sqlite
+*.sqlite3
+*.db
+
+# Redis
+dump.rdb
+
+# ========================
+# DOCUMENTATION (Temporary)
+# ========================
+# README files (will be replaced with final version)
+README.md
+readme.md
+README.txt
+NOTIFICATIONS.md
+LOGOUT_FIX.md
+TASK_403_FIX.md
+*.md
+
+# ========================
+# TESTING & COVERAGE
+# ========================
+# Test coverage
+coverage/
+.nyc_output/
+.coverage/
+
+# Jest
+jest.config.js
+__tests__/
+
+# ========================
+# TEMPORARY FILES
+# ========================
+# Temporary files
+tmp/
+temp/
+.tmp/
+.temp/
+
+# Metro bundler (React Native)
+.metro-health-check*
+
+# ESLint cache
+.eslintcache
+
+# Parcel cache
+.parcel-cache/
+
+# ========================
+# DEPLOYMENT
+# ========================
+# Serverless
+.serverless/
+
+# Vercel
+.vercel/
+
+# Netlify
+.netlify/
+
+# AWS
+.aws/
+
+# ========================
+# PROJECT SPECIFIC
+# ========================
+# Expo Go limitations documentation
+app-example/
+
+# Development notes and fixes
+*_FIX.md
+*_NOTES.md
+DEVELOPMENT_LOG.md

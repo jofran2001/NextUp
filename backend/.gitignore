@@ -1,0 +1,119 @@
+# Backend - Node.js/Express API
+# Specific .gitignore for backend folder
+
+# ========================
+# ENVIRONMENT & SECURITY
+# ========================
+# Environment variables (CRITICAL!)
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+*.env
+*.env.*
+
+# Secrets and API keys
+secrets/
+config/secrets.js
+private.key
+public.key
+
+# ========================
+# DEPENDENCIES
+# ========================
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Package locks
+package-lock.json
+yarn.lock
+
+# ========================
+# DATABASE
+# ========================
+# MongoDB dumps
+dump/
+data/
+*.mongo
+
+# Database backups
+backup/
+*.sql
+*.sqlite
+*.sqlite3
+
+# ========================
+# LOGS & DEBUG
+# ========================
+# Application logs
+logs/
+*.log
+access.log
+error.log
+
+# Debug files
+debug/
+.debug
+
+# ========================
+# UPLOADS & FILES
+# ========================
+# User uploads
+uploads/
+files/
+attachments/
+public/uploads/
+
+# ========================
+# BUILD & DIST
+# ========================
+# Build outputs
+build/
+dist/
+
+# ========================
+# DEVELOPMENT
+# ========================
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# ========================
+# TESTING
+# ========================
+# Test coverage
+coverage/
+.nyc_output/
+
+# Test databases
+test.db
+test.sqlite
+
+# ========================
+# PERFORMANCE
+# ========================
+# Profiling
+*.prof
+profile/
+
+# ========================
+# DOCUMENTATION (Temporary)
+# ========================
+# Will be replaced with proper API documentation
+README.md
+*.md
+
+# ========================
+# SECURITY SCANS
+# ========================
+# Security audit files
+.audit/
+security-audit.json
