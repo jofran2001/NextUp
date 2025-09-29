@@ -26,8 +26,7 @@ O **NextUp** é um aplicativo de gerenciamento de tarefas ,projetado para oferec
 
 | ID | Funcionalidade | Descrição | Sprint | Status | Complexidade | Prioridade |
 |----|----------------|-----------|--------|---------|--------------|------------|
-| **US001** | Sistema de Autenticação | Login/registro com email e senha | 1 | ✅ **Concluído** | M | Alta |
-| **US002** | Perfil do Usuário | Criação de perfil com nome, email e preferências | 1 | ✅ **Concluído** | M | Alta |
+| **US002** | Perfil do Usuário | Criação de perfil com nome e email  | 1 | ✅ **Concluído** | M | Alta |
 | **US003** | CRUD de Tarefas | Criar, editar, visualizar e excluir tarefas | 1 | ✅ **Concluído** | M | Alta |
 | **US004** | Sistema de Status | Marcar tarefas como pendente/em-andamento/concluída | 1 | ✅ **Concluído** | S | Alta |
 | **US005** | Sistema de Prioridades | Definir prioridade (baixa/média/alta) para tarefas | 1 | ✅ **Concluído** | S | Alta |
@@ -35,7 +34,6 @@ O **NextUp** é um aplicativo de gerenciamento de tarefas ,projetado para oferec
 | **US007** | Dashboard de Estatísticas | Visualizar métricas de produtividade | 1 | ✅ **Concluído** | M | Média |
 | **US008** | Sistema de Notificações | Lembretes automáticos para prazos | 1 | ✅ **Concluído** | M | Média |
 | **US009** | Edição de Perfil | Atualizar informações pessoais e senha | 1 | ✅ **Concluído** | S | Média |
-| **US010** | Configuração de Rede | Sistema dinâmico de IP para diferentes redes | 1 | ✅ **Concluído** | M | Alta |
 | **US011** | Categorias de Tarefas | Organizar por trabalho/estudos/casa/projetos | 2 | 🔄 **Planejado** | M | Alta |
 | **US012** | Campos Detalhados | Data início, prazo, descrição completa | 2 | 🔄 **Planejado** | M | Alta |
 | **US013** | Etiquetas Personalizadas | Tags customizáveis para identificação rápida | 2 | 🔄 **Planejado** | M | Média |
