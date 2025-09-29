@@ -32,7 +32,6 @@ O **NextUp** é um aplicativo de gerenciamento de tarefas ,projetado para oferec
 | **US005** | Sistema de Prioridades | Definir prioridade (baixa/média/alta) para tarefas | 1 | ✅ **Concluído** | S | Alta |
 | **US006** | Filtros e Busca | Filtrar por status, prioridade e buscar por texto | 1 | ✅ **Concluído** | M | Alta |
 | **US007** | Dashboard de Estatísticas | Visualizar métricas de produtividade | 1 | ✅ **Concluído** | M | Média |
-| **US008** | Sistema de Notificações | Lembretes automáticos para prazos | 1 | ✅ **Concluído** | M | Média |
 | **US009** | Edição de Perfil | Atualizar informações pessoais e senha | 1 | ✅ **Concluído** | S | Média |
 | **US011** | Categorias de Tarefas | Organizar por trabalho/estudos/casa/projetos | 2 | 🔄 **Planejado** | M | Alta |
 | **US012** | Campos Detalhados | Data início, prazo, descrição completa | 2 | 🔄 **Planejado** | M | Alta |
