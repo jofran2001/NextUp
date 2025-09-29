@@ -31,25 +31,25 @@ O **NextUp** é um aplicativo de gerenciamento de tarefas ,projetado para oferec
 | **US004** | Sistema de Status | Marcar tarefas como pendente/em-andamento/concluída | 1 | ✅ **Concluído** | Alta |
 | **US005** | Sistema de Prioridades | Definir prioridade (baixa/média/alta) para tarefas | 1 | ✅ **Concluído** | Alta |
 | **US006** | Filtros e Busca | Filtrar por status, prioridade e buscar por texto | 1 | ✅ **Concluído** | Alta |
-| **US007** | Dashboard de Estatísticas | Visualizar métricas de produtividade | 1 | ✅ **Concluído** | Média |
-| **US009** | Edição de Perfil | Atualizar informações pessoais e senha | 1 | ✅ **Concluído** | Média |
-| **US011** | Categorias de Tarefas | Organizar por trabalho/estudos/casa/projetos | 2 | 🔄 **Planejado** | Alta |
-| **US012** | Campos Detalhados | Data início, prazo, descrição completa | 2 | 🔄 **Planejado** | Alta |
+| **US007** | Dashboard de Estatísticas | Visualizar métricas de produtividade | 1 | ✅ **Concluído** | Alta |
+| **US009** | Edição de Perfil | Atualizar informações pessoais e senha | 1 | ✅ **Concluído** | Alta |
+| **US011** | Categorias de Tarefas | Organizar por trabalho/estudos/casa/projetos | 2 | 🔄 **Planejado** | Média |
+| **US012** | Campos Detalhados | Data início, prazo, descrição completa | 2 | 🔄 **Planejado** | Média |
 | **US013** | Etiquetas Personalizadas | Tags customizáveis para identificação rápida | 2 | 🔄 **Planejado** | Média |
 | **US014** | Visualização em Calendário | Vista semanal e mensal das tarefas | 2 | 🔄 **Planejado** | Média |
 | **US015** | Progresso de Tarefas | Percentual de conclusão e etapas | 2 | 🔄 **Planejado** | Média |
-| **US016** | Anexos em Tarefas | Upload de arquivos e links | 2 | 🔄 **Planejado** | Baixa |
-| **US017** | Anotações Rápidas | Área para ideias e lembretes livres | 2 | 🔄 **Planejado** | Baixa |
-| **US018** | Personalização Visual | Temas, cores e ícones customizáveis | 2 | 🔄 **Planejado** | Baixa |
-| **US019** | Busca Inteligente | Busca avançada em tarefas, notas e anexos | 3 | 📋 **Backlog** | Média |
-| **US020** | Painel Inicial Avançado | Dashboard com tarefas urgentes e resumo do dia | 3 | 📋 **Backlog** | Média |
-| **US021** | Gráficos de Produtividade | Visualizações avançadas de evolução | 3 | 📋 **Backlog** | Média |
+| **US016** | Anexos em Tarefas | Upload de arquivos e links | 2 | 🔄 **Planejado** | Média |
+| **US017** | Anotações Rápidas | Área para ideias e lembretes livres | 2 | 🔄 **Planejado** | Média |
+| **US018** | Personalização Visual | Temas, cores e ícones customizáveis | 2 | 🔄 **Planejado** | Média |
+| **US019** | Busca Inteligente | Busca avançada em tarefas, notas e anexos | 3 | 📋 **Backlog** | Baixa |
+| **US020** | Painel Inicial Avançado | Dashboard com tarefas urgentes e resumo do dia | 3 | 📋 **Backlog** | Baixa |
+| **US021** | Gráficos de Produtividade | Visualizações avançadas de evolução | 3 | 📋 **Backlog** | Baixa |
 | **US022** | Comandos de Voz | Criar/concluir tarefas por voz | 3 | 📋 **Backlog** | Baixa |
-| **US023** | Notificações Push | Push notifications para dispositivos | 3 | 📋 **Backlog** | Média |
-| **US024** | Sincronização em Nuvem | Backup e sync entre dispositivos | 3 | 📋 **Backlog** | Alta |
-| **US025** | Google Calendar | Integração com calendário externo | 3 | 📋 **Backlog** | Média |
-| **US026** | Compartilhamento | Listas colaborativas entre usuários | 3 | 📋 **Backlog** | Média |
-| **US027** | Modo Offline | Funcionamento sem internet com sync posterior | 3 | 📋 **Backlog** | Média |
+| **US023** | Notificações Push | Push notifications para dispositivos | 3 | 📋 **Backlog** | Baixa |
+| **US024** | Sincronização em Nuvem | Backup e sync entre dispositivos | 3 | 📋 **Backlog** | Baixa |
+| **US025** | Google Calendar | Integração com calendário externo | 3 | 📋 **Backlog** | Baixa |
+| **US026** | Compartilhamento | Listas colaborativas entre usuários | 3 | 📋 **Backlog** | Baixa |
+| **US027** | Modo Offline | Funcionamento sem internet com sync posterior | 3 | 📋 **Backlog** | Baixa |
 | **US028** | Sistema de Relatórios | Relatórios de produtividade exportáveis | 3 | 📋 **Backlog** | Baixa |
 
 ---
