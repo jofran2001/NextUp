@@ -33,14 +33,14 @@ O **NextUp** é um aplicativo de gerenciamento de tarefas ,projetado para oferec
 | **US006** | Filtros e Busca | Filtrar por status, prioridade e buscar por texto | 1 | ✅ **Concluído** | Alta |
 | **US007** | Dashboard de Estatísticas | Visualizar métricas de produtividade | 1 | ✅ **Concluído** | Alta |
 | **US009** | Edição de Perfil | Atualizar informações pessoais e senha | 1 | ✅ **Concluído** | Alta |
-| **US011** | Categorias de Tarefas | Organizar por trabalho/estudos/casa/projetos | 2 | 🔄 **Planejado** | Média |
-| **US012** | Campos Detalhados | Data início, prazo, descrição completa | 2 | 🔄 **Planejado** | Média |
-| **US013** | Etiquetas Personalizadas | Tags customizáveis para identificação rápida | 2 | 🔄 **Planejado** | Média |
-| **US014** | Visualização em Calendário | Vista semanal e mensal das tarefas | 2 | 🔄 **Planejado** | Média |
-| **US015** | Progresso de Tarefas | Percentual de conclusão e etapas | 2 | 🔄 **Planejado** | Média |
-| **US016** | Anexos em Tarefas | Upload de arquivos e links | 2 | 🔄 **Planejado** | Média |
-| **US017** | Anotações Rápidas | Área para ideias e lembretes livres | 2 | 🔄 **Planejado** | Média |
-| **US018** | Personalização Visual | Temas, cores e ícones customizáveis | 2 | 🔄 **Planejado** | Média |
+| **US011** | Categorias de Tarefas | Organizar por trabalho/estudos/casa/projetos | 2 | ✅ **Concluído** | Média |
+| **US012** | Campos Detalhados | Data início, prazo, descrição completa | 2 | ✅ **Concluído** | Média |
+| **US013** | Etiquetas Personalizadas | Tags customizáveis para identificação rápida | 2 | ✅ **Concluído** | Média |
+| **US014** | Visualização em Calendário | Vista semanal e mensal das tarefas | 2 | ✅ **Concluído** | Média |
+| **US015** | Progresso de Tarefas | Percentual de conclusão e etapas | 2 | ✅ **Concluído** | Média |
+| **US016** | Anexos em Tarefas | Upload de arquivos e links | 2 | ✅ **Concluído** | Média |
+| **US017** | Anotações Rápidas | Área para ideias e lembretes livres | 2 |  ✅ **Concluído** | Média |
+| **US018** | Personalização Visual | Temas, cores e ícones customizáveis | 2 | ✅ **Concluído** | Média |
 | **US019** | Busca Inteligente | Busca avançada em tarefas, notas e anexos | 3 | 📋 **Backlog** | Baixa |
 | **US020** | Painel Inicial Avançado | Dashboard com tarefas urgentes e resumo do dia | 3 | 📋 **Backlog** | Baixa |
 | **US021** | Gráficos de Produtividade | Visualizações avançadas de evolução | 3 | 📋 **Backlog** | Baixa |
@@ -75,14 +75,14 @@ O **NextUp** é um aplicativo de gerenciamento de tarefas ,projetado para oferec
 **Objetivo**: Expandir funcionalidades de organização, personalização e recursos avançados
 
 **Entregáveis Planejados**:
-- [ ] Sistema de categorias (trabalho/estudos/casa/projetos)
-- [ ] Campos detalhados para tarefas (datas, descrições)
-- [ ] Sistema de etiquetas personalizadas
-- [ ] Visualização em calendário (semanal/mensal)
-- [ ] Acompanhamento de progresso com percentuais
-- [ ] Anexos em tarefas (arquivos e links)
-- [ ] Anotações rápidas
-- [ ] Personalização visual (temas, cores)
+- [x] Sistema de categorias (trabalho/estudos/casa/projetos)
+- [x] Campos detalhados para tarefas (datas, descrições)
+- [x] Sistema de etiquetas personalizadas
+- [x] Visualização em calendário (semanal/mensal)
+- [x] Acompanhamento de progresso com percentuais
+- [x] Anexos em tarefas (arquivos e links)
+- [x] Anotações rápidas
+- [x] Personalização visual (temas, cores)
 
 **Story Points**: 22 pontos | **Complexidade**: 50% Média, 25% Simples, 25% Grande
 
