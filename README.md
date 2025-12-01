@@ -41,16 +41,15 @@ O **NextUp** é um aplicativo de gerenciamento de tarefas ,projetado para oferec
 | **US016** | Anexos em Tarefas | Upload de arquivos e links | 2 | ✅ **Concluído** | Média |
 | **US017** | Anotações Rápidas | Área para ideias e lembretes livres | 2 |  ✅ **Concluído** | Média |
 | **US018** | Personalização Visual | Temas, cores e ícones customizáveis | 2 | ✅ **Concluído** | Média |
-| **US019** | Busca Inteligente | Busca avançada em tarefas, notas e anexos | 3 | 📋 **Backlog** | Baixa |
-| **US020** | Painel Inicial Avançado | Dashboard com tarefas urgentes e resumo do dia | 3 | 📋 **Backlog** | Baixa |
-| **US021** | Gráficos de Produtividade | Visualizações avançadas de evolução | 3 | 📋 **Backlog** | Baixa |
+| **US019** | Busca Inteligente | Busca avançada em tarefas, notas e anexos | 3 | ✅ **Concluído** | Baixa |
+| **US020** | Painel Inicial Avançado | Dashboard com tarefas urgentes e resumo do dia | 3 | ✅ **Concluído** | Baixa |
+| **US021** | Gráficos de Produtividade | Visualizações avançadas de evolução | 3 | ✅ **Concluído** | Baixa |
 | **US022** | Comandos de Voz | Criar/concluir tarefas por voz | 3 | 📋 **Backlog** | Baixa |
-| **US023** | Notificações Push | Push notifications para dispositivos | 3 | 📋 **Backlog** | Baixa |
-| **US024** | Sincronização em Nuvem | Backup e sync entre dispositivos | 3 | 📋 **Backlog** | Baixa |
+| **US024** | Sincronização em Nuvem | Backup e sync entre dispositivos | 3 | ✅ **Concluído** | Baixa |
 | **US025** | Google Calendar | Integração com calendário externo | 3 | 📋 **Backlog** | Baixa |
-| **US026** | Compartilhamento | Listas colaborativas entre usuários | 3 | 📋 **Backlog** | Baixa |
-| **US027** | Modo Offline | Funcionamento sem internet com sync posterior | 3 | 📋 **Backlog** | Baixa |
-| **US028** | Sistema de Relatórios | Relatórios de produtividade exportáveis | 3 | 📋 **Backlog** | Baixa |
+| **US026** | Compartilhamento | Listas colaborativas entre usuários | 3 | ✅ **Concluído** | Baixa |
+| **US027** | Modo Offline | Funcionamento sem internet com sync posterior | 3 | ✅ **Concluído** | Baixa |
+| **US028** | Sistema de Relatórios | Relatórios de produtividade exportáveis | 3 | ✅ **Concluído** | Baixa |
 
 ---
 
